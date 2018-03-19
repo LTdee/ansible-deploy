@@ -3,5 +3,5 @@
   become_user: root
 
   roles:
-    - download_war
-    - deploy_war
+    - download_jdk
+    - deploy_jdk
